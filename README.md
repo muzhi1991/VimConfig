@@ -4,7 +4,7 @@ Vim配置自动加载，使用pathogen管理Vim插件
 2. 其他插件安装到bundle中，作为一个子模块目录即可
 
 ```shell
-git submodule add git://github.com/altercation/vim-colors-solarized.git bundle/vim-colors-solarized
+git submodule add https://github.com/altercation/vim-colors-solarized.git bundle/vim-colors-solarized
 ```
 
 3. 下载与安装
